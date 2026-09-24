@@ -22,13 +22,6 @@ Flutter       ████████████████      75%
 Firebase      ███████████████       70%
 MySQL         ██████████████████    80%
 
----
-
-🔗 Connect
-
-"Portfolio" (https://img.shields.io/badge/Portfolio-184D47?style=for-the-badge&logo=vercel&logoColor=white)" (https://saveenmaduranga.vercel.app/)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/saveen995)
-"Email" (https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:saveenonline@gmail.com)
 
 ---
 
